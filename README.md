@@ -38,7 +38,7 @@ python task1.py
 ---
 
 ### Documentation
-A detailed analysis summary is available in:
+A detailed analysis summary is available in [CSV file](toolwindow_data.csv).
 
 This document explains:
 
